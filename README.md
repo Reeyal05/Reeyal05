@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am lazy, but I somehow get the job done and idk how
+- ⚡ Fun fact: I am lazy, but I always get the job done
 
 <!---
 Reeyal05/Reeyal05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
