@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Reeyal05
-- 👀 I’m interested in Robot
+- 👀 I’m interested in Robotics 
 - 🌱 I’m currently learning Robotics and AI(2024-2028)
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
